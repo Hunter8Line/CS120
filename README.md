@@ -1,2 +1,3 @@
 # CS120
 Misc. files for my CS 120 Class. Nothing really important here...
+Why are you here? There is nothing important for you here. Just go away and leave me be.
